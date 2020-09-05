@@ -1,2 +1,2 @@
-# churn_prediction
-Predict churn for a B2B software
+# india-telco-prepaid-churn-prediction
+Predict churn of an Indian telecom (numbers are 
